@@ -1,6 +1,5 @@
 use std::{process::{ChildStdout, Command, Stdio}, io::{BufRead, Read}};
 use colored::*;
-use serde_json::Value;
 
 pub struct Shell;
 
