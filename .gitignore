@@ -1,0 +1,7 @@
+.env
+/target
+**/.DS_Store
+*Cargo.lock
+*package-lock.json
+**/Cargo.lock
+**/package-lock.json
