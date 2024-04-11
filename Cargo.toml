@@ -10,7 +10,7 @@ repository = "https://github.com/Connected-Dot/cnctd_shell"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.75"
-colored = "2.0.4"
-serde_json = "1.0.107"
-tokio = { version = "1.32.0", features = ["full"] }
+anyhow = "1.0.82"
+colored = "2.1.0"
+serde_json = "1.0.115"
+tokio = { version = "1.37.0", features = ["full"] }
